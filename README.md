@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tolios-connect4-mcp-badge.png)](https://mseep.ai/app/tolios-connect4-mcp)
+
 # MCP CONNECT 4
 
 While people use MCP to build powerful connections with various tools like db's or the web
